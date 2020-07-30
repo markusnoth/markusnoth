@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Endless loop](FickleSlowGartersnake-small.gif)
+![Endless loop](https://github.com/markusnoth/markusnoth/blob/master/FickleSlowGartersnake-small.gif)
 
 <!--
 **markusnoth/markusnoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
